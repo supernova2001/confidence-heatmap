@@ -23,7 +23,10 @@ This repo hosts a high-fidelity prototype of the **Confidence Heatmap & Source A
    - Source cards show which transcript/EHR/guideline chunk supported the sentence.  
    - The Voice QA agent runs contradiction checks (e.g., symptom mentioned without plan) and lists suggested fixes.
 
+![screenshot](https://github.com/user-attachments/assets/3ab2a0bb-3f6f-4cc8-95ec-602c4b657c09)
+
 ### Running the prototype
+
 ```bash
 npm install
 npm run dev
