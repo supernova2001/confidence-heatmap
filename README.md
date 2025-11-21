@@ -33,9 +33,3 @@ npm run dev
 # visit http://localhost:3000
 ```
 
-### What to build next
-- Swap the mock API with a real RAG pipeline (Whisper + retriever + LLM)
-- Persist QA findings, allow dismissal/escalation, and push actions into the EHR
-- Add telemetry so we can measure verification time savings in production
-
-Questions or ideas? Open a PR or drop an issue—we’re treating this as a living design doc as much as a UI prototype.
